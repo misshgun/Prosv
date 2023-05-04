@@ -1,0 +1,11 @@
+.services__link{
+    font-family: 'Golos';
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+    padding-left: 30px;
+    position: absolute;
+}

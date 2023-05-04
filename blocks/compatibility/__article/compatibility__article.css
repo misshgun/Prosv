@@ -1,0 +1,7 @@
+.compatibility__article{
+    margin-top: 50px;
+}
+
+.compatibility__article:first-child{
+    margin-top: 0;
+}

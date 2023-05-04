@@ -1,0 +1,8 @@
+.services__blocks {
+    width: 100%;
+    max-width: 325px;
+    min-height: 257px;
+    border-radius: 33px;
+    background: linear-gradient(180deg, #3662FF 0%, rgba(68, 154, 255, 0) 100%);
+    position: relative;
+}
